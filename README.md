@@ -4,4 +4,4 @@
 
 ![alt text](logo_ver2.png)
 
-More information: [a relative link](DokumentacjaGUT.pdf)
+More information: [DokumentacjaGUT.pdf](DokumentacjaGUT.pdf)
